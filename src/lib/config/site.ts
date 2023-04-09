@@ -14,5 +14,5 @@ export const site: SiteConfig = {
     bio: 'Its Me'
   },
   // themeColor: '#3D4451'
-  themeColor: '#171614'
+  themeColor: '#F17105'
 }
