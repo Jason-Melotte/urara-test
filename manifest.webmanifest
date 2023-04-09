@@ -8,8 +8,8 @@
   "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#3D4451",
-  "theme_color": "#3D4451",
+  "background_color": "#171614",
+  "theme_color": "#171614",
   "icons": [
     {
       "src": "https://urara-demo.netlify.app/assets/any@192.png",
